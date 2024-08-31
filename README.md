@@ -1,2 +1,2 @@
-# DSA-with-C-
+# DSA-with-C++
 Hi Everyone..! This is DSA Supreme
